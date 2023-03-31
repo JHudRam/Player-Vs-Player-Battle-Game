@@ -1,12 +1,3 @@
-/*
- 
- Jacob Ramos
- PIC-10A
- HomeWork #7: player.h
- UID: 505-927-969
-
- */
-
 #ifndef player_hpp
 #define player_hpp
 
