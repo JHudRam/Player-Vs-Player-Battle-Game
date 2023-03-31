@@ -1,12 +1,3 @@
-/*
-
- Jacob Ramos
- PIC-10A
- HomeWork #7: player.cpp
- UID: 505-927-969
-
- */
-
 #include<iostream>
 #include<vector>
 #include<string>
