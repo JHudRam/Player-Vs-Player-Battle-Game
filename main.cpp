@@ -1,8 +1,4 @@
 
-/* PIC10A Battle with enemy
-* Coded by Weiqi Chu
-*/
-
 /*
 #include<iostream>
 #include<iomanip>
@@ -30,10 +26,6 @@ return 0;
 }
 */
  
-/* PIC10A Battle with enemy
-* Coded by Weiqi Chu
-*/
-
 
 #include<iostream>
 #include<iomanip>
